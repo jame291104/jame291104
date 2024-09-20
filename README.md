@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jesús Morán Espinoza</h1>
 <h3 align="center"><em>Junior Full - Stack Web Developer</em></h3>
 
-<h3>Skils</h3>
+<h3>Web Development Skills</h3>
 <ul>
         <li>HTML</li>
         <li>CSS</li>
