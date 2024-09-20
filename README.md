@@ -9,7 +9,7 @@
         <li>Bootstrap</li>
         <li>Styled Components</li>
         <li>Figma / UI Design</li>
-        <li>JavasCript</li>
+        <li>JavaScript</li>
         <li>TypeScript</li>
         <li>React</li>
         <li>Vue</li>
